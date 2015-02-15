@@ -27,7 +27,7 @@
       "company": "Easyart.com (Kingandmcgaw.com)",
       "position": "Senior Web Developer",
       "website": "http://www.easyart.com",
-      "startDate": "2013-12-01",
+      "startDate": "2001-02-01",
       "summary": "Easyart is a UK-based ecommerce website which sells art prints and posters worldwide. Recently merged with art publisher King & McGaw, the company now controls the entire process from printing, product creation to delivery. A recent rewrite of the 10+ year old platform to a service-oriented architecture will position the company to offer their services to retailers through a standard API. ",
       "highlights": [
         "Helped design & write a service-based system to power a multi-language/multi-currency website. The new platform is comprised of many simple cloud-based services written mainly with Ruby/Rails.",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "company": "Arteposter (out of business)",
+      "company": "Arteposter (no longer trading)",
       "position": "Contractor (design, server admin)",
       "website": "http://arteposter.it",
       "startDate": "2010-12-01",
@@ -96,7 +96,7 @@
       "name": "Web Development (Back-end)",
       "level": "Master",
       "keywords": [
-        "Ruby (Rails, Sinatra)",
+        "Ruby (Rails, Sinatra, RSpec)",
         "PHP (Codeigniter, Zend)"
       ]
     },
@@ -104,9 +104,8 @@
       "name": "Web Development (Front-end)",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS (Sass, LESS)",
-        "Javascript (Backbone, jQuery, Grunt)",
+        "HTML/Haml/CSS (Sass, LESS, Responsive design)",
+        "Javascript (Backbone, Jasmine, jQuery, Grunt)",
         "Photoshop, Illustrator"
       ]
     },
@@ -116,6 +115,7 @@
       "keywords": [
         "MySQL",
         "Elasticsearch, SOLR",
+        "*nix Admin",
         "MongoDB",
         "Redis"
       ]
@@ -133,6 +133,13 @@
   ],
   "interests": [
     {
+      "name": "Cycling",
+      "keywords": [
+        "100+ miles per week",
+        "Category 4 racing - beginner"
+      ]
+    },
+    {
       "name": "Photography",
       "keywords": [
         "Abstract/Cityscape",
@@ -140,10 +147,12 @@
       ]
     },
     {
-      "name": "Cycling",
+      "name": "Travel",
       "keywords": [
-        "Road Racing",
-        "Category 4 Beginner"
+        "Moved from U.S. to Europe after university (2000)",
+        "Lived in Paris for 6 years",
+        "Travelled to over 20 countries",
+        "and to over 35 U.S. States"
       ]
     }
   ]
