@@ -8,8 +8,8 @@
     "website": "https://johnpash.com",
     "summary": "I am a full-stack web developer looking to refine my skills with Ruby/Rails and front-end Javascript frameworks.",
     "location": {
-      "address": "13 Whittington Court. Aylmer Road.",
-      "postalCode": "N2 0BT",
+      "address": "43 Westmere Drive",
+      "postalCode": "NW7 3HG",
       "city": "London",
       "countryCode": "UK",
       "region": "London"
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "company": "Kingandmcgaw.com (previously Easyart.com)",
+      "company": "Kingandmcgaw.com",
       "position": "Senior Web Developer",
       "website": "https://www.kingandmcgaw.com",
       "startDate": "2001-02-01",
@@ -105,7 +105,7 @@
       "level": "Master",
       "keywords": [
         "HTML/Haml/CSS (Sass, LESS, Responsive design)",
-        "Javascript (Backbone, Jasmine, jQuery, Grunt/Gulp/Yarn)",
+        "Javascript (Vue.js, Backbone, Jasmine, jQuery)",
         "Photoshop, Illustrator"
       ]
     },
