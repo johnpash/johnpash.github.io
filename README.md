@@ -1,3 +1,3 @@
 # John Pash - Web Developer
 
-**C.V.** [http://johnpash.github.io/cv/](http://johnpash.github.io/cv/)
+**C.V.** [https://johnpash.github.io/cv/](https://johnpash.github.io/cv/)
