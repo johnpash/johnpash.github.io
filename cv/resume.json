@@ -6,7 +6,7 @@
     "email": "pash.john@gmail.com",
     "phone": "(+44) 07902 955 155",
     "website": "https://johnpash.com",
-    "summary": "I am a full-stack web developer looking to refine my skills with Ruby/Rails and front-end Javascript frameworks.",
+    "summary": "Full-stack web developer with extensive experience using Ruby/Rails in an ecommerce setting.",
     "location": {
       "address": "43 Westmere Drive",
       "postalCode": "NW7 3HG",
@@ -41,18 +41,16 @@
       "startDate": "1989-12-01",
       "endDate": "1990-12-01",
       "summary": "Responsible for executing end-user and software test plans on robotics medication dispensing systems",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "AllergyCosmos",
       "position": "Contractor (design, server admin)",
-      "website": "http://www.AllergyCosmos.co.uk",
+      "website": "https://www.allergycosmos.co.uk",
       "startDate": "2009-01-01",
       "endDate": "2012-01-01",
       "summary": "Design and server administration. E-commerce website on the Magento platform.",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Guidepal",
@@ -61,8 +59,7 @@
       "startDate": "2010-12-01",
       "endDate": "2013-12-01",
       "summary": "Drafted URL structure and outlined SEO plan for which increased visitors by more than 300% in the following 2 months. Helped developers with the many changes and redirects, and managed the transition which saw no loss in SEO rankings for the businesses top keywords.",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Arteposter (no longer trading)",
@@ -71,8 +68,7 @@
       "startDate": "2010-12-01",
       "endDate": "2013-12-01",
       "summary": "Coding, database, SEO. Arteposter is an Italian e-commerce website written in PHP (CodeIgniter) with a MySQL database and SOLR search engine.",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "education": [
@@ -96,24 +92,26 @@
       "name": "Web Development (Back-end)",
       "level": "Master",
       "keywords": [
-        "Ruby (Rails, Sinatra, RSpec)",
-        "PHP (Codeigniter, Zend)"
+        "Ruby (Rails)",
+        "Elixir (Phoenix)",
+        "PHP"
       ]
     },
     {
       "name": "Web Development (Front-end)",
       "level": "Master",
       "keywords": [
-        "HTML/Haml/CSS (Sass, LESS, Responsive design)",
-        "Javascript (Vue.js, Backbone, Jasmine, jQuery)",
-        "Photoshop, Illustrator"
+        "HTML (Of course!)",
+        "CSS (Sass, LESS)",
+        "JavaScript (Native, Vue, Backbone)",
+        "Photoshop, Illustrator, InDesign"
       ]
     },
     {
       "name": "Server-side admin",
       "level": "Intermediate",
       "keywords": [
-        "MySQL",
+        "PostgreSQL, MySQL",
         "Elasticsearch, SOLR",
         "*nix Admin",
         "MongoDB",
@@ -133,26 +131,19 @@
   ],
   "interests": [
     {
-      "name": "Cycling",
-      "keywords": [
-        "100+ miles per week",
-        "Category 4 racing - beginner"
-      ]
+      "name": "Cycling"
     },
     {
       "name": "Photography",
-      "keywords": [
-        "Abstract/Cityscape",
-        "Portraiture"
-      ]
+      "keywords": []
     },
     {
       "name": "Travel",
       "keywords": [
         "Moved from U.S. to Europe after university (2000)",
         "Lived in Paris for 6 years",
-        "Travelled to over 20 countries",
-        "and to over 35 U.S. States"
+        "Travelled to over 20 countries (mostly weekend breaks. But it still counts!",
+        "And 30 States. 20 to go..."
       ]
     }
   ]
