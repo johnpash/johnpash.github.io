@@ -2,7 +2,7 @@
   "basics": {
     "name": "John S. Pash",
     "label": "Web Developer",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/150548?s=400&u=e8b4b0fa57400e2cf3b427090961782ee244ff4b&v=4",
     "email": "pash.john@gmail.com",
     "phone": "(+44) 07902 955 155",
     "website": "https://johnpash.com",
@@ -25,9 +25,9 @@
   "work": [
     {
       "company": "Kingandmcgaw.com",
-      "position": "Senior Web Developer",
+      "position": "Senior/Lead Web Developer",
       "website": "https://www.kingandmcgaw.com",
-      "startDate": "2001-02-01",
+      "startDate": "2017-10-01",
       "summary": "King & McGaw is a UK-based ecommerce website which sells art prints and posters worldwide. A recent overhaul of platform to a service-oriented architecture will position the company to offer their services to retailers through a standard API while continuing to power avariety of in-house and white-label commercial websites.",
       "highlights": [
         "Helped design & write a service-based system to power a multi-language/multi-currency website. The new platform is comprised of many simple cloud-based services using Ruby/Rails, Backbone.js, and Elasticsearch using Heroku.",
@@ -36,10 +36,33 @@
       ]
     },
     {
+      "company": "WorldGallery",
+      "website": "https://www.worldgallery.co.uk",
+      "endDate": "2017-10-01",
+      "startDate": "2014-03-01",
+      "summary": "A competitor to EasyArt at the time. The companies merged and continued to trade independently.",
+      "highlights": [
+        "Along with WorldGallery, the company acquired PictureCabinet. This essentially doubled the size of the systems over night.",
+        "Bought out by the King & McGaw Publishing and shuttered the site"
+      ]
+    },
+    {
+      "company": "EasyArt",
+      "website": "https://www.easyart.com",
+      "endDate": "2014-03-01",
+      "startDate": "2001-02-01",
+      "summary": "Started as an intern and worked my way up to full-stack developer",
+      "highlights": [
+        "Responsible for front-end and SEO strategy",
+        "At one point we had over 10 international websites served on different domains. This proved to be quite challenging, especially because of how quickly organic search changed back then.",
+        "Bought out by the EasyGroup (EasyJet etc.) and shuttered the site"
+      ]
+    },
+    {
       "company": "McKesson Healthcare - Pittsburgh PA.",
       "position": "Software Q.A. Tester",
-      "startDate": "1989-12-01",
       "endDate": "1990-12-01",
+      "startDate": "1989-12-01",
       "summary": "Responsible for executing end-user and software test plans on robotics medication dispensing systems",
       "highlights": []
     },
@@ -47,8 +70,8 @@
       "company": "AllergyCosmos",
       "position": "Contractor (design, server admin)",
       "website": "https://www.allergycosmos.co.uk",
-      "startDate": "2009-01-01",
       "endDate": "2012-01-01",
+      "startDate": "2009-01-01",
       "summary": "Design and server administration. E-commerce website on the Magento platform.",
       "highlights": []
     },
@@ -56,8 +79,8 @@
       "company": "Guidepal",
       "position": "Contractor (technical SEO consultant)",
       "website": "http://guidepal.com",
-      "startDate": "2010-12-01",
       "endDate": "2013-12-01",
+      "startDate": "2010-12-01",
       "summary": "Drafted URL structure and outlined SEO plan for which increased visitors by more than 300% in the following 2 months. Helped developers with the many changes and redirects, and managed the transition which saw no loss in SEO rankings for the businesses top keywords.",
       "highlights": []
     },
@@ -65,8 +88,8 @@
       "company": "Arteposter (no longer trading)",
       "position": "Contractor (design, server admin)",
       "website": "http://arteposter.it",
-      "startDate": "2010-12-01",
       "endDate": "2013-12-01",
+      "startDate": "2010-12-01",
       "summary": "Coding, database, SEO. Arteposter is an Italian e-commerce website written in PHP (CodeIgniter) with a MySQL database and SOLR search engine.",
       "highlights": []
     }
@@ -76,47 +99,37 @@
       "institution": "University of California, Pennsylvania",
       "area": "Applied Computer Science",
       "studyType": "Bachelors Degree",
-      "startDate": "1995-09-01",
-      "endDate": "2000-05-01"
+      "endDate": "2000-05-01",
+      "startDate": "1995-09-01"
     },
     {
       "institution": "University of California, Pennsylvania",
       "area": "A.S. Robotics Systems Technology and Design",
       "studyType": "Associates Degree",
-      "startDate": "1995-09-01",
-      "endDate": "2000-05-01"
+      "endDate": "2000-05-01",
+      "startDate": "1995-09-01"
     }
   ],
   "skills": [
     {
       "name": "Web Development (Back-end)",
       "level": "Master",
-      "keywords": [
-        "Ruby (Rails)",
-        "Elixir (Phoenix)",
-        "PHP"
-      ]
+      "keywords": ["Ruby (Rails)", "Elixir (Phoenix)", "PHP"]
     },
     {
       "name": "Web Development (Front-end)",
       "level": "Master",
       "keywords": [
         "HTML (Of course!)",
-        "CSS (Sass, LESS)",
-        "JavaScript (Native, Vue, Backbone)",
+        "CSS (I'm really loving Tailwind)",
+        "JavaScript/Typescript (Vue, React)",
         "Photoshop, Illustrator, InDesign"
       ]
     },
     {
       "name": "Server-side admin",
-      "level": "Intermediate",
-      "keywords": [
-        "PostgreSQL, MySQL",
-        "Elasticsearch, SOLR",
-        "*nix Admin",
-        "MongoDB",
-        "Redis"
-      ]
+      "level": "Advanced",
+      "keywords": ["PostgreSQL, MySQL", "Elasticsearch", "*nix Admin", "Redis"]
     }
   ],
   "languages": [
@@ -142,8 +155,7 @@
       "keywords": [
         "Moved from U.S. to Europe after university (2000)",
         "Lived in Paris for 6 years",
-        "Travelled to over 20 countries (mostly weekend breaks. But it still counts!",
-        "And 30 States. 20 to go..."
+        "Travelled to 20+ countries and 30+ States"
       ]
     }
   ]
