@@ -25,11 +25,12 @@
   "work": [
     {
       "company": "Kingandmcgaw.com",
-      "position": "Senior/Lead Web Developer",
+      "position": "Head of Web Development",
       "website": "https://www.kingandmcgaw.com",
       "startDate": "2017-10-01",
       "summary": "King & McGaw is a UK-based ecommerce website which sells art prints and posters worldwide. A recent overhaul of platform to a service-oriented architecture will position the company to offer their services to retailers through a standard API while continuing to power avariety of in-house and white-label commercial websites.",
       "highlights": [
+        "Managed a small team of developers and oversaw multiple redesigns and relaunches of the website",
         "Helped design & write a service-based system to power a multi-language/multi-currency website. The new platform is comprised of many simple cloud-based services using Ruby/Rails, Backbone.js, and Elasticsearch using Heroku.",
         "Refactored and added automated testing to a Backbone app which is the core of the public-facing business. The entire business depends on this single web page working as best as it can.",
         "Helped construct a continuous deployment workflow where new developers could confidently push code on their first day. This was quite a leap forward from the old system."
@@ -37,6 +38,7 @@
     },
     {
       "company": "WorldGallery",
+      "position": "Senior/Lead Web Developer",
       "website": "https://www.worldgallery.co.uk",
       "endDate": "2017-10-01",
       "startDate": "2014-03-01",
@@ -48,6 +50,7 @@
     },
     {
       "company": "EasyArt",
+      "position": "Web Developer",
       "website": "https://www.easyart.com",
       "endDate": "2014-03-01",
       "startDate": "2001-02-01",
