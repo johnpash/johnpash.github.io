@@ -3,10 +3,10 @@
     "name": "John S. Pash",
     "label": "Web Developer",
     "picture": "https://avatars.githubusercontent.com/u/150548?s=400&u=e8b4b0fa57400e2cf3b427090961782ee244ff4b&v=4",
-    "email": "pash.john@gmail.com",
+    "email": "john@johnpash.com",
     "phone": "(+44) 07902 955 155",
     "website": "https://johnpash.com",
-    "summary": "Full-stack web developer with extensive experience using Ruby/Rails in an ecommerce setting.",
+    "summary": "Full-stack web developer with 20+ years experience primarily in ecommerce. Built multi-language, multi-currency websites primarily in the arts section. Managed small teams of developers and oversaw multiple UX/UI redesigns while still being an active individual contributor on each project. Seeking to further refine my development skills and mentor eager junior developers along the way.",
     "location": {
       "address": "43 Westmere Drive",
       "postalCode": "NW7 3HG",
@@ -25,15 +25,15 @@
   "work": [
     {
       "name": "Kingandmcgaw.com",
-      "position": "Head of Web Development",
+      "position": "Head of Web Development, CTO",
       "website": "https://www.kingandmcgaw.com",
       "startDate": "2017-10-01",
       "summary": "King & McGaw is a UK-based ecommerce website which sells art prints and posters worldwide. A recent overhaul of platform to a service-oriented architecture will position the company to offer their services to retailers through a standard API while continuing to power avariety of in-house and white-label commercial websites.",
       "highlights": [
-        "Managed a small team of developers and oversaw multiple redesigns and relaunches of the website",
-        "Helped design & write a service-based system to power a multi-language/multi-currency website. The new platform is comprised of many simple cloud-based services using Ruby/Rails, Backbone.js, and Elasticsearch using Heroku.",
-        "Refactored and added automated testing to a Backbone app which is the core of the public-facing business. The entire business depends on this single web page working as best as it can.",
-        "Helped construct a continuous deployment workflow where new developers could confidently push code on their first day. This was quite a leap forward from the old system."
+        "Managed mid-sized team of developers and onboarded junior devs.",
+        "Managed two full redesigns of the flagship website. Met regularly with external design and UX agencies in addition to the tech build.",
+        "Helped design & build a service-based system to power a multi-language/multi-currency website.",
+        "Helped build a continuous integration workflow to enable new developers to confidently push code on their first day."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "startDate": "2014-03-01",
       "summary": "A competitor to EasyArt at the time. The companies merged and continued to trade independently.",
       "highlights": [
-        "Along with WorldGallery, the company acquired PictureCabinet. This essentially doubled the size of the systems over night.",
-        "Bought out by the King & McGaw Publishing and shuttered the site"
+        "Successfully employed an SEO strategy that allowed two websites in the same domain maintain top spots in the Google search rankings.",
+        "Eventually shuttered the site and fully merged the assets with King & McGaw Publishing."
       ]
     },
     {
@@ -56,9 +56,9 @@
       "startDate": "2001-02-01",
       "summary": "Started as an intern and worked my way up to full-stack developer",
       "highlights": [
-        "Responsible for front-end and SEO strategy",
-        "At one point we had over 10 international websites served on different domains. This proved to be quite challenging, especially because of how quickly organic search changed back then.",
-        "Bought out by the EasyGroup (EasyJet etc.) and shuttered the site"
+        "Responsible for front-end development and SEO strategy",
+        "Maintained 10 international localised websites, each in their own language. This proved to be quite challenging due to the differences in each market. The solutions weren't as simple as translating the words and currency for each country.",
+        "Bought out by the EasyGroup (EasyJet etc.) and ultimately closed."
       ]
     },
     {
@@ -66,8 +66,11 @@
       "position": "Software Q.A. Tester",
       "endDate": "1990-12-01",
       "startDate": "1989-12-01",
-      "summary": "Responsible for executing end-user and software test plans on robotics medication dispensing systems",
-      "highlights": []
+      "summary": "Responsible for writing/executing end-user and software test plans on medication dispensing systems",
+      "highlights": [
+        "Head of small team of software/hardware testers for medical robotics solutions",
+        "Our main goal was introduce chaos to the systems to tease out the edge-cases which the developers might not have thought of. Many lateral-thinking brainstorm sessions were used to harden the test suite."
+      ]
     },
     {
       "name": "AllergyCosmos",
@@ -75,8 +78,10 @@
       "website": "https://www.allergycosmos.co.uk",
       "endDate": "2012-01-01",
       "startDate": "2009-01-01",
-      "summary": "Design and server administration. E-commerce website on the Magento platform.",
-      "highlights": []
+      "summary": "Web design and server administration. E-commerce website using Magento(PHP/MySql)",
+      "highlights": [
+        "Built & maintanted secure, performant servers (Ubuntu) to host the website. This was before everything was in the cloud."
+      ]
     },
     {
       "name": "Guidepal",
@@ -84,11 +89,14 @@
       "website": "http://guidepal.com",
       "endDate": "2013-12-01",
       "startDate": "2010-12-01",
-      "summary": "Drafted URL structure and outlined SEO plan for which increased visitors by more than 300% in the following 2 months. Helped developers with the many changes and redirects, and managed the transition which saw no loss in SEO rankings for the businesses top keywords.",
-      "highlights": []
+      "summary": ["Seo consultant"],
+      "highlights": [
+        "Drafted URL structure and outlined SEO plan which saw a 300% increase in traffic immediately after the change.",
+        "Helped developers with the changes and redirects, and managed the transition which saw no loss in SEO rankings for the businesses top keywords."
+      ]
     },
     {
-      "name": "Arteposter (no longer trading)",
+      "name": "Arteposter",
       "position": "Contractor (design, server admin)",
       "website": "http://arteposter.it",
       "endDate": "2013-12-01",
@@ -145,6 +153,16 @@
       "fluency": "Beginner"
     }
   ],
+  "volunteer": [
+    {
+      "organization": "London Ruby User Group",
+      "url": "https://lrug.org/",
+      "position": "Participant/Mentor",
+      "highlights": [
+        "Regular attendee at the London Ruby User Group, taking the role of mentor for people seeking help with the Ruby language."
+      ]
+    }
+  ],
   "interests": [
     {
       "name": "Cycling"
@@ -156,9 +174,9 @@
     {
       "name": "Travel",
       "keywords": [
-        "Moved from U.S. to Europe after university (2000)",
-        "Lived in Paris for 6 years",
-        "Travelled to 20+ countries and 30+ States"
+        "Relocated to Europe from U.S. after university (2000)",
+        "Resident in Paris for 6 years",
+        "Travelled to 20+ countries and 30+ U.S. States"
       ]
     }
   ]
