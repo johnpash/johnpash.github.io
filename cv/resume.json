@@ -25,12 +25,12 @@
   "work": [
     {
       "name": "Kingandmcgaw.com",
-      "position": "Head of Web Development, CTO",
+      "position": "Senior Web Developer, CTO",
       "website": "https://www.kingandmcgaw.com",
       "startDate": "2017-10-01",
       "summary": "King & McGaw is a UK-based ecommerce website which sells art prints and posters worldwide. A recent overhaul of platform to a service-oriented architecture will position the company to offer their services to retailers through a standard API while continuing to power avariety of in-house and white-label commercial websites.",
       "highlights": [
-        "Managed mid-sized team of developers and onboarded junior devs.",
+        "Managed small team of developers and onboarded junior devs.",
         "Managed two full redesigns of the flagship website. Met regularly with external design and UX agencies in addition to the tech build.",
         "Helped design & build a service-based system to power a multi-language/multi-currency website.",
         "Helped build a continuous integration workflow to enable new developers to confidently push code on their first day."
