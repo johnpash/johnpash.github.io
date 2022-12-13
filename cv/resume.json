@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Kingandmcgaw.com",
+      "company": "Kingandmcgaw.com",
       "position": "Senior Web Developer, CTO",
       "website": "https://www.kingandmcgaw.com",
       "startDate": "2017-10-01",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "WorldGallery",
+      "company": "WorldGallery",
       "position": "Senior/Lead Web Developer",
       "website": "https://www.worldgallery.co.uk",
       "endDate": "2017-10-01",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "EasyArt",
+      "company": "EasyArt",
       "position": "Web Developer",
       "website": "https://www.easyart.com",
       "endDate": "2014-03-01",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "McKesson Healthcare - Pittsburgh PA.",
+      "company": "McKesson Healthcare - Pittsburgh PA.",
       "position": "Software Q.A. Tester",
       "endDate": "1990-12-01",
       "startDate": "1989-12-01",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "AllergyCosmos",
+      "company": "AllergyCosmos",
       "position": "Contractor (design, server admin)",
       "website": "https://www.allergycosmos.co.uk",
       "endDate": "2012-01-01",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Guidepal",
+      "company": "Guidepal",
       "position": "Contractor (technical SEO consultant)",
       "website": "http://guidepal.com",
       "endDate": "2013-12-01",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Arteposter",
+      "company": "Arteposter",
       "position": "Contractor (design, server admin)",
       "website": "http://arteposter.it",
       "endDate": "2013-12-01",
